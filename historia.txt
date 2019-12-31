@@ -1,5 +1,6 @@
 Hola soy Andres Laserna y esta es mi historia....
 
+En este punto ya se mas o menos coo funciona Git y GitHub, este año va a estar lleno de nuevos retos.
 
 Bueno...
 
